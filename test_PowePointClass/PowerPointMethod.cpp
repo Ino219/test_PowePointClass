@@ -124,6 +124,7 @@ Microsoft::Office::Interop::PowerPoint::Shape ^ powerpointClass::getTable(int sl
 			//ğŒˆê’v‚·‚ê‚Îæ“¾
 			tableshape = var;
 		}
+
 	}
 	//–ß‚è’l‚ğ’è‹`
 	return tableshape;
